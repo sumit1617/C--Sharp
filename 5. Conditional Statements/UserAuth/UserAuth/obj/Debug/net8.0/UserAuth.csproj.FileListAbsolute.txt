@@ -1,0 +1,14 @@
+D:\Dot-Net\5. Conditional Statements\UserAuth\UserAuth\obj\Debug\net8.0\UserAuth.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot-Net\5. Conditional Statements\UserAuth\UserAuth\obj\Debug\net8.0\UserAuth.AssemblyInfoInputs.cache
+D:\Dot-Net\5. Conditional Statements\UserAuth\UserAuth\obj\Debug\net8.0\UserAuth.AssemblyInfo.cs
+D:\Dot-Net\5. Conditional Statements\UserAuth\UserAuth\obj\Debug\net8.0\UserAuth.csproj.CoreCompileInputs.cache
+D:\Dot-Net\5. Conditional Statements\UserAuth\UserAuth\bin\Debug\net8.0\UserAuth.exe
+D:\Dot-Net\5. Conditional Statements\UserAuth\UserAuth\bin\Debug\net8.0\UserAuth.deps.json
+D:\Dot-Net\5. Conditional Statements\UserAuth\UserAuth\bin\Debug\net8.0\UserAuth.runtimeconfig.json
+D:\Dot-Net\5. Conditional Statements\UserAuth\UserAuth\bin\Debug\net8.0\UserAuth.dll
+D:\Dot-Net\5. Conditional Statements\UserAuth\UserAuth\bin\Debug\net8.0\UserAuth.pdb
+D:\Dot-Net\5. Conditional Statements\UserAuth\UserAuth\obj\Debug\net8.0\UserAuth.dll
+D:\Dot-Net\5. Conditional Statements\UserAuth\UserAuth\obj\Debug\net8.0\refint\UserAuth.dll
+D:\Dot-Net\5. Conditional Statements\UserAuth\UserAuth\obj\Debug\net8.0\UserAuth.pdb
+D:\Dot-Net\5. Conditional Statements\UserAuth\UserAuth\obj\Debug\net8.0\UserAuth.genruntimeconfig.cache
+D:\Dot-Net\5. Conditional Statements\UserAuth\UserAuth\obj\Debug\net8.0\ref\UserAuth.dll

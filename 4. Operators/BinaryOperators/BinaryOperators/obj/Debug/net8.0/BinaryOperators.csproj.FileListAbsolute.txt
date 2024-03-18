@@ -1,0 +1,14 @@
+D:\Dot-Net\4. Operators\BinaryOperators\BinaryOperators\bin\Debug\net8.0\BinaryOperators.exe
+D:\Dot-Net\4. Operators\BinaryOperators\BinaryOperators\bin\Debug\net8.0\BinaryOperators.deps.json
+D:\Dot-Net\4. Operators\BinaryOperators\BinaryOperators\bin\Debug\net8.0\BinaryOperators.runtimeconfig.json
+D:\Dot-Net\4. Operators\BinaryOperators\BinaryOperators\bin\Debug\net8.0\BinaryOperators.dll
+D:\Dot-Net\4. Operators\BinaryOperators\BinaryOperators\bin\Debug\net8.0\BinaryOperators.pdb
+D:\Dot-Net\4. Operators\BinaryOperators\BinaryOperators\obj\Debug\net8.0\BinaryOperators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot-Net\4. Operators\BinaryOperators\BinaryOperators\obj\Debug\net8.0\BinaryOperators.AssemblyInfoInputs.cache
+D:\Dot-Net\4. Operators\BinaryOperators\BinaryOperators\obj\Debug\net8.0\BinaryOperators.AssemblyInfo.cs
+D:\Dot-Net\4. Operators\BinaryOperators\BinaryOperators\obj\Debug\net8.0\BinaryOperators.csproj.CoreCompileInputs.cache
+D:\Dot-Net\4. Operators\BinaryOperators\BinaryOperators\obj\Debug\net8.0\BinaryOperators.dll
+D:\Dot-Net\4. Operators\BinaryOperators\BinaryOperators\obj\Debug\net8.0\refint\BinaryOperators.dll
+D:\Dot-Net\4. Operators\BinaryOperators\BinaryOperators\obj\Debug\net8.0\BinaryOperators.pdb
+D:\Dot-Net\4. Operators\BinaryOperators\BinaryOperators\obj\Debug\net8.0\BinaryOperators.genruntimeconfig.cache
+D:\Dot-Net\4. Operators\BinaryOperators\BinaryOperators\obj\Debug\net8.0\ref\BinaryOperators.dll

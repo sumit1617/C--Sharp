@@ -1,0 +1,14 @@
+D:\Dot-Net\4. Operators\TernaryOperator\TernaryOperator\bin\Debug\net8.0\TernaryOperator.exe
+D:\Dot-Net\4. Operators\TernaryOperator\TernaryOperator\bin\Debug\net8.0\TernaryOperator.deps.json
+D:\Dot-Net\4. Operators\TernaryOperator\TernaryOperator\bin\Debug\net8.0\TernaryOperator.runtimeconfig.json
+D:\Dot-Net\4. Operators\TernaryOperator\TernaryOperator\bin\Debug\net8.0\TernaryOperator.dll
+D:\Dot-Net\4. Operators\TernaryOperator\TernaryOperator\bin\Debug\net8.0\TernaryOperator.pdb
+D:\Dot-Net\4. Operators\TernaryOperator\TernaryOperator\obj\Debug\net8.0\TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot-Net\4. Operators\TernaryOperator\TernaryOperator\obj\Debug\net8.0\TernaryOperator.AssemblyInfoInputs.cache
+D:\Dot-Net\4. Operators\TernaryOperator\TernaryOperator\obj\Debug\net8.0\TernaryOperator.AssemblyInfo.cs
+D:\Dot-Net\4. Operators\TernaryOperator\TernaryOperator\obj\Debug\net8.0\TernaryOperator.csproj.CoreCompileInputs.cache
+D:\Dot-Net\4. Operators\TernaryOperator\TernaryOperator\obj\Debug\net8.0\TernaryOperator.dll
+D:\Dot-Net\4. Operators\TernaryOperator\TernaryOperator\obj\Debug\net8.0\refint\TernaryOperator.dll
+D:\Dot-Net\4. Operators\TernaryOperator\TernaryOperator\obj\Debug\net8.0\TernaryOperator.pdb
+D:\Dot-Net\4. Operators\TernaryOperator\TernaryOperator\obj\Debug\net8.0\TernaryOperator.genruntimeconfig.cache
+D:\Dot-Net\4. Operators\TernaryOperator\TernaryOperator\obj\Debug\net8.0\ref\TernaryOperator.dll

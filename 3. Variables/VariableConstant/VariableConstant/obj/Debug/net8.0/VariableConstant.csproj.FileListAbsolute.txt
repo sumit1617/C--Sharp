@@ -1,0 +1,14 @@
+D:\Dot-Net\3. Variables\VariableConstant\VariableConstant\bin\Debug\net8.0\VariableConstant.exe
+D:\Dot-Net\3. Variables\VariableConstant\VariableConstant\bin\Debug\net8.0\VariableConstant.deps.json
+D:\Dot-Net\3. Variables\VariableConstant\VariableConstant\bin\Debug\net8.0\VariableConstant.runtimeconfig.json
+D:\Dot-Net\3. Variables\VariableConstant\VariableConstant\bin\Debug\net8.0\VariableConstant.dll
+D:\Dot-Net\3. Variables\VariableConstant\VariableConstant\bin\Debug\net8.0\VariableConstant.pdb
+D:\Dot-Net\3. Variables\VariableConstant\VariableConstant\obj\Debug\net8.0\VariableConstant.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot-Net\3. Variables\VariableConstant\VariableConstant\obj\Debug\net8.0\VariableConstant.AssemblyInfoInputs.cache
+D:\Dot-Net\3. Variables\VariableConstant\VariableConstant\obj\Debug\net8.0\VariableConstant.AssemblyInfo.cs
+D:\Dot-Net\3. Variables\VariableConstant\VariableConstant\obj\Debug\net8.0\VariableConstant.csproj.CoreCompileInputs.cache
+D:\Dot-Net\3. Variables\VariableConstant\VariableConstant\obj\Debug\net8.0\VariableConstant.dll
+D:\Dot-Net\3. Variables\VariableConstant\VariableConstant\obj\Debug\net8.0\refint\VariableConstant.dll
+D:\Dot-Net\3. Variables\VariableConstant\VariableConstant\obj\Debug\net8.0\VariableConstant.pdb
+D:\Dot-Net\3. Variables\VariableConstant\VariableConstant\obj\Debug\net8.0\VariableConstant.genruntimeconfig.cache
+D:\Dot-Net\3. Variables\VariableConstant\VariableConstant\obj\Debug\net8.0\ref\VariableConstant.dll

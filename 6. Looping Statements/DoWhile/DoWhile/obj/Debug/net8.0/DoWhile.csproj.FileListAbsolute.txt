@@ -1,0 +1,14 @@
+D:\Dot-Net\6. Looping Statements\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot-Net\6. Looping Statements\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfoInputs.cache
+D:\Dot-Net\6. Looping Statements\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.AssemblyInfo.cs
+D:\Dot-Net\6. Looping Statements\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.csproj.CoreCompileInputs.cache
+D:\Dot-Net\6. Looping Statements\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.exe
+D:\Dot-Net\6. Looping Statements\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.deps.json
+D:\Dot-Net\6. Looping Statements\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.runtimeconfig.json
+D:\Dot-Net\6. Looping Statements\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.dll
+D:\Dot-Net\6. Looping Statements\DoWhile\DoWhile\bin\Debug\net8.0\DoWhile.pdb
+D:\Dot-Net\6. Looping Statements\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.dll
+D:\Dot-Net\6. Looping Statements\DoWhile\DoWhile\obj\Debug\net8.0\refint\DoWhile.dll
+D:\Dot-Net\6. Looping Statements\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.pdb
+D:\Dot-Net\6. Looping Statements\DoWhile\DoWhile\obj\Debug\net8.0\DoWhile.genruntimeconfig.cache
+D:\Dot-Net\6. Looping Statements\DoWhile\DoWhile\obj\Debug\net8.0\ref\DoWhile.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dot-Net\\6. Looping Statements\\ForLoop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51920B54-A8F8-4449-9BF1-530FBD743024}|ForLoop\\ForLoop.csproj|d:\\dot-net\\6. looping statements\\forloop\\forloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51920B54-A8F8-4449-9BF1-530FBD743024}|ForLoop\\ForLoop.csproj|solutionrelative:forloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dot-Net\\6. Looping Statements\\ForLoop\\ForLoop\\Program.cs",
+              "RelativeDocumentMoniker": "ForLoop\\Program.cs",
+              "ToolTip": "D:\\Dot-Net\\6. Looping Statements\\ForLoop\\ForLoop\\Program.cs",
+              "RelativeToolTip": "ForLoop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T20:58:14.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

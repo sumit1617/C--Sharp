@@ -1,0 +1,14 @@
+D:\Dot-Net\7. Arrays\TwoDArray\TwoDArray\bin\Debug\net8.0\TwoDArray.exe
+D:\Dot-Net\7. Arrays\TwoDArray\TwoDArray\bin\Debug\net8.0\TwoDArray.deps.json
+D:\Dot-Net\7. Arrays\TwoDArray\TwoDArray\bin\Debug\net8.0\TwoDArray.runtimeconfig.json
+D:\Dot-Net\7. Arrays\TwoDArray\TwoDArray\bin\Debug\net8.0\TwoDArray.dll
+D:\Dot-Net\7. Arrays\TwoDArray\TwoDArray\bin\Debug\net8.0\TwoDArray.pdb
+D:\Dot-Net\7. Arrays\TwoDArray\TwoDArray\obj\Debug\net8.0\TwoDArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dot-Net\7. Arrays\TwoDArray\TwoDArray\obj\Debug\net8.0\TwoDArray.AssemblyInfoInputs.cache
+D:\Dot-Net\7. Arrays\TwoDArray\TwoDArray\obj\Debug\net8.0\TwoDArray.AssemblyInfo.cs
+D:\Dot-Net\7. Arrays\TwoDArray\TwoDArray\obj\Debug\net8.0\TwoDArray.csproj.CoreCompileInputs.cache
+D:\Dot-Net\7. Arrays\TwoDArray\TwoDArray\obj\Debug\net8.0\TwoDArray.dll
+D:\Dot-Net\7. Arrays\TwoDArray\TwoDArray\obj\Debug\net8.0\refint\TwoDArray.dll
+D:\Dot-Net\7. Arrays\TwoDArray\TwoDArray\obj\Debug\net8.0\TwoDArray.pdb
+D:\Dot-Net\7. Arrays\TwoDArray\TwoDArray\obj\Debug\net8.0\TwoDArray.genruntimeconfig.cache
+D:\Dot-Net\7. Arrays\TwoDArray\TwoDArray\obj\Debug\net8.0\ref\TwoDArray.dll
